@@ -6,3 +6,4 @@ scikit-learn
 seaborn
 mlxtend
 bs4
+openpyxl

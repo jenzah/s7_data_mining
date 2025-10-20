@@ -1,0 +1,49 @@
+﻿TransactionID,Produit,Quantité,Prix,Catégorie,Date
+1,pain,1.0,1.2,boulangerie,2025-01-09
+2,lait,2.0,0.95,laitage,
+3,beurre,1.0,2.8,laitage,
+4,tomate,3.0,1.99,fruits & légumes,2025-02-09
+5,tomate,2.0,2.1,fruits et legumes,
+6,pâtes,1.0,0.89,épicerie,2025-02-09
+7,pâtes,2.0,0.89,épicerie,
+8,riz,1.0,1.1,épicerie,2025-03-09
+9,riz,5.0,1.1,épicerie,2025-03-09
+10,yaourt,6.0,0.45,laitage,2025-03-09
+11,yaourt,4.0,0.45,laitage,
+12,oeufs,12.0,2.5,œufs & ovoproduits,2025-04-09
+13,oeuf,6.0,1.4,œufs & ovoproduits,
+14,poulet,1.0,5.99,boucherie,2025-04-09
+15,poisson,1.0,7.5,poissonnerie,2025-04-09
+16,banane,7.0,0.3,fruits & légumes,2025-05-09
+17,bananes,5.0,0.28,fruits & légumes,
+18,pomme,10.0,0.35,fruits & légumes,
+19,pommes,8.0,0.33,fruits/légumes,2025-05-09
+20,concombre,2.0,0.9,fruits & légumes,2025-06-09
+21,coca-cola,3.0,1.15,boissons,2025-06-09
+22,coca cola,1.0,1.1,boissons,
+23,eau minerale,6.0,0.6,boissons,2025-06-09
+24,eau  minerale,6.0,0.6,boissons,
+25,café,1.0,3.2,épicerie,2025-07-09
+26,café,2.0,3.1,épicerie,
+27,thé,2.0,2.4,épicerie,2025-07-09
+28,thé,1.0,2.35,épicerie,
+29,chocolat,3.0,1.8,épicerie,2025-07-09
+30,choco lait,2.0,1.75,épicerie,2025-07-09
+31,beurre,1.0,1.575,laitage,2025-08-09
+32,lait,2.0,0.95,laitage,2025-08-09
+33,pain,2.0,1.2,boulangerie,2025-08-09
+34,pâtes,1.0,1.575,épicerie,2025-08-09
+35,riz,2.0,1.1,épicerie,2025-09-09
+36,tomate,2.0,1.99,nan,2025-09-09
+37,fromage,1.0,3.5,crèmerie,2025-09-09
+38,fromage,1.0,3.45,crèmerie,
+39,jambon,1.0,2.9,charcuterie,2025-10-09
+40,jambon,1.0,2.9,charcuterie,
+41,beurre,1.0,2.8,laitage,2025-01-09
+42,lait,2.0,0.95,laitage,
+43,eau minerale,6.0,0.6,boissons,2025-06-09
+45,huile d'olive,1.0,6.2,épicerie,2025-11-09
+46,huile d'olive,1.0,6.15,épicerie,
+47,corn-flakes,1.0,2.1,épicerie,2025-11-09
+48,corn-flakes,1.0,2.05,épicerie,
+50,beurre demi-sel,1.0,2.95,laitage,
