@@ -2,7 +2,7 @@
 This repository contains my homework assignments and projects for my Data Mining course.
 
 ## Repository Structure
-
+```
 data-mining-homework/
 │
 ├── homework1/
@@ -16,3 +16,4 @@ data-mining-homework/
 │   └── data/
 │
 └── ...
+```
