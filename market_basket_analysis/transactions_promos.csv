@@ -1,0 +1,41 @@
+transaction_id,items_space_separated
+1,bread butter milk eggs
+2,bread butter jam
+3,bread milk cereal
+4,milk cereal banana
+5,bread cheese tomato
+6,pasta tomato_sauce cheese
+7,pasta olive_oil tomato_sauce
+8,rice chicken olive_oil
+9,rice beans tomato
+10,coffee milk sugar
+11,tea sugar biscuits
+12,tea lemon honey
+13,yogurt banana granola
+14,apples bananas yogurt
+15,oranges apples
+16,lettuce tomato cucumber olive_oil
+17,bread ham cheese
+18,eggs bacon bread
+19,butter jam croissant
+20,bread butter cheese tomato
+21,coffee biscuits
+22,tea milk sugar
+23,coffee chocolate
+24,pasta cheese
+25,rice fish lemon
+26,flour sugar eggs butter
+27,pasta mushrooms tomato_sauce
+28,cereal milk banana
+29,yogurt strawberries
+30,juice biscuits
+31,bread butter honey
+32,apples peanut_butter
+33,bread peanut_butter jam
+34,oats milk banana
+35,coffee milk biscuits
+36,tea honey biscuits
+37,rice tofu soy_sauce
+38,noodles soy_sauce vegetables
+39,pasta tomato_sauce basil
+40,eggs milk flour
